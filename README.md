@@ -25,9 +25,13 @@ ROUGE SCORES:
 
 <img width="689" alt="Screenshot 2024-03-19 at 3 31 44 AM" src="https://github.com/karthiksagarN/Bart-FineTuned-Model-406M/assets/111840048/1ad53794-5e2d-40b8-9ac9-8ac05e161e6a">
 
+BERT SCORE:
 
-Framework versions -
-Transformers 4.38.2
-Pytorch 2.2.1+cu121
-Datasets 2.18.0
-Tokenizers 0.15.2
+<img width="233" alt="Screenshot 2024-03-19 at 4 14 39 AM" src="https://github.com/karthiksagarN/Bart-FineTuned-Model-406M/assets/111840048/7117805e-a711-45ec-af35-e8646af21cfb">
+
+
+Framework versions
+Transformers - 4.38.2
+Pytorch - 2.2.1+cu121
+Datasets - 2.18.0
+Tokenizers - 0.15.2
