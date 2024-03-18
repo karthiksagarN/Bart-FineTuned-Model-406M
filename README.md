@@ -21,6 +21,11 @@ lr_scheduler_type: linear
 lr_scheduler_warmup_steps: 100
 num_epochs: 3
 
+ROUGE Scores:
+{'rouge1': AggregateScore(low=Score(precision=0.29231890922960946, recall=0.5755340591660789, fmeasure=0.36452270126617037), mid=Score(precision=0.3012174062385683, recall=0.5880590685871268, fmeasure=0.3721959667623731), high=Score(precision=0.31083014490046085, recall=0.6010687364120285, fmeasure=0.38112972171463944)), 
+'rouge2': AggregateScore(low=Score(precision=0.11850674794550704, recall=0.2418211034418429, fmeasure=0.14808409500530648), mid=Score(precision=0.12516700754290633, recall=0.2545193627452707, fmeasure=0.15550558913151516), high=Score(precision=0.13212297153452818, recall=0.26821321492196054, fmeasure=0.16319578693000844)), 'rougeL': AggregateScore(low=Score(precision=0.21821073377249478, recall=0.4433629225420538, fmeasure=0.2744300617502658), mid=Score(precision=0.2250875126650962, recall=0.454741311774031, fmeasure=0.2810128477652416), high=Score(precision=0.23278079521177517, recall=0.4679046460070841, fmeasure=0.2886331732350875)),
+'rougeLsum': AggregateScore(low=Score(precision=0.21777541761772454, recall=0.4424980486533571, fmeasure=0.273913514415514), mid=Score(precision=0.2249069295700737, recall=0.45455346599643354, fmeasure=0.28065150515936815), high=Score(precision=0.2320842431711672, recall=0.4679183440028743, fmeasure=0.28834793775815465))}
+
 Framework versions -
 Transformers 4.38.2
 Pytorch 2.2.1+cu121
