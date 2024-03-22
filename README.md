@@ -1,7 +1,7 @@
 # Bart-FineTuned-Model-406M
 FineTuned facebook's BART-Model with 406 M parameters
 
-Check out the HuggingFace Repository -
+TO ACCESS THE MODEL FILES please check out the HuggingFace Repository -
 https://huggingface.co/karthiksagarn/bart-samsum-finetuned
 
 This model is a fine-tuned version of facebook/bart-large-cnn on the samsum dataset. It achieves the following results on the evaluation set.
